@@ -1,0 +1,12 @@
+{
+  "name": "interactive-menu",
+  "version": "1.0.0",
+  "description": "A web application with an interactive navigation menu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
